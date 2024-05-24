@@ -4,7 +4,7 @@
 💻 **Information Security Professional**  
 🔧 *Specialist in Mobile Hacking (Android and iOS)*  
 ❤️ Passionate about technology and hacking, old and new alike.  
-💬 Enthusiast of Low-Level Programming, Python, JavaScript, C, ShellScript.
+💬 Enthusiast of Low-Level Programming, Python, JavaScript, C, C#, ShellScript.
 
 ### Skills
 - Building Pipelines with Jenkins, Azure DevOps, and GitHub Actions
@@ -16,6 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
