@@ -1,4 +1,4 @@
-# Wassup!?, I'm M R X l33t!
+# Wassup!? I'm M R X l33t!
 
 ### About Me
 💻 **Information Security Professional**  
