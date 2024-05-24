@@ -1,18 +1,18 @@
-# SALVEE! M R X l33t!
+# Wassup!?, I'm M R X l33t!
 
-### Sobre Mim
-💻 **Profissional de Segurança da Informação**  
-🔧 *Especialista em Hacking Mobile (Android e iOS)*  
-❤️ Apaixonado por tecnologia e hacking, tanto novas quanto antigas.  
-💬 Aficionado por Programação em Baixo Nível, Python, JavaScript, Linguagem C, ShellScript.
+### About Me
+💻 **Information Security Professional**  
+🔧 *Specialist in Mobile Hacking (Android and iOS)*  
+❤️ Passionate about technology and hacking, old and new alike.  
+💬 Enthusiast of Low-Level Programming, Python, JavaScript, C, ShellScript.
 
-### Conhecimentos
-- Construção de Pipelines com Jenkins, Azure DevOps e GitHub Actions
-- Ferramentas SAST, DAST e SCA
-- Reporte de falhas de segurança para grandes empresas, com reconhecimento
-- Experiência com teste profissional de penetração
+### Skills
+- Building Pipelines with Jenkins, Azure DevOps, and GitHub Actions
+- Knowledge of SAST, DAST, and SCA tools
+- Reported security vulnerabilities to major companies with recognition
+- Professional penetration testing experience
 
-### Linguagens e Ferramentas
+### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -23,9 +23,9 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rsouza-leandro/)
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 
-### Estatísticas
-![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical)
+### Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
