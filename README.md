@@ -1,4 +1,6 @@
-# Hello 👋, I'm M R X l33t!
+# Hello 👋
+
+My name is Leandro Ribeiro but my nickname is MRX L33T
 
 ### About Me
 💻 **Information Security Professional**  
