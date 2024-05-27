@@ -5,6 +5,7 @@ My name is Leandro Ribeiro and my nickname is MRX L33T
 ### About Me
 💻 **Information Security Professional**  
 🔧 *Specialist in Mobile Hacking (Android and iOS)*  
+🎯 *Experience with Application Security and code Security*
 ❤️ Passionate about technology and hacking, old and new alike.  
 💬 Enthusiast of Low-Level Programming, Python, JavaScript, C, C#, and ShellScript.
 
